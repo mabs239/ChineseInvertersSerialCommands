@@ -1,0 +1,328 @@
+Sending command:
+b'QPIRI\xf8T\r'
+Printing reply from inverter:
+(220.0 05.4 220.0 50.0 05.4 1200 1200 12.0 12.0 10.7 14.6 13.5 1 10 080 0 2 3 1 01 0 0 13.8 0 1*
+
+28 32 32 30 2E 30 20 30 35 2E 34 20 32 32 30 2E 30 20 35 30 2E 30 20 30 35 2E 34 20 31 32 30 30 20 31 32 30 30 20 31 32 2E 30 20 31 32 2E 30 20 31 30 2E 37 20 31 34 2E 36 20 31 33 2E 35 20 31 20 31 30 20 30 38 30 20 30 20 32 20 33 20 31 20 30 31 20 30 20 30 20 31 33 2E 38 20 30 20 31 2A 0D
+
+Sending command:
+b'QPIRI\xf8T\r'
+Printing reply from inverter:
+(220.0 05.4 220.0 50.0 05.4 1200 1200 12.0 12.0 10.7 14.6 13.5 1 10 080 0 2 3 1 01 0 0 13.8 0 1*
+
+28 32 32 30 2E 30 20 30 35 2E 34 20 32 32 30 2E 30 20 35 30 2E 30 20 30 35 2E 34 20 31 32 30 30 20 31 32 30 30 20 31 32 2E 30 20 31 32 2E 30 20 31 30 2E 37 20 31 34 2E 36 20 31 33 2E 35 20 31 20 31 30 20 30 38 30 20 30 20 32 20 33 20 31 20 30 31 20 30 20 30 20 31 33 2E 38 20 30 20 31 2A 0D
+
+Sending command:
+b'QVFW4\xa33\r'
+Printing reply from inverter:
+(NAKss
+
+28 4E 41 4B 73 73 0D
+
+Sending command:
+b'QFLAG\x98t\r'
+Printing reply from inverter:
+(EabuvxzDjkyj
+
+28 45 61 62 75 76 78 7A 44 6A 6B 79 6A 0D
+
+Sending command:
+b'QPIGS\xb7\xa9\r'
+Printing reply from inverter:
+(233.9 50.0 220.7 49.9 0132 0126 011 410 13.90 014 075 0048 04.2 082.7 00.00 00000 00010110 00 00 00352 010u`
+
+28 32 33 33 2E 39 20 35 30 2E 30 20 32 32 30 2E 37 20 34 39 2E 39 20 30 31 33 32 20 30 31 32 36 20 30 31 31 20 34 31 30 20 31 33 2E 39 30 20 30 31 34 20 30 37 35 20 30 30 34 38 20 30 34 2E 32 20 30 38 32 2E 37 20 30 30 2E 30 30 20 30 30 30 30 30 20 30 30 30 31 30 31 31 30 20 30 30 20 30 30 20 30 30 33 35 32 20 30 31 30 75 60 0D
+
+Sending command:
+b'QPIGS2h-\r'
+Printing reply from inverter:
+(NAKss
+
+28 4E 41 4B 73 73 0D
+
+Sending command:
+b'QPGSn\x84\xe1\r'
+Printing reply from inverter:
+(NAKss
+
+28 4E 41 4B 73 73 0D
+
+Sending command:
+b'QPGS1/\xfb\r'
+Printing reply from inverter:
+(NAKss
+
+28 4E 41 4B 73 73 0D
+
+Sending command:
+b'QPGS2\x1f\x98\r'
+Printing reply from inverter:
+(NAKss
+
+28 4E 41 4B 73 73 0D
+
+Sending command:
+b'QP2GSn\xaf>\r'
+Printing reply from inverter:
+(NAKss
+
+28 4E 41 4B 73 73 0D
+
+Sending command:
+b'QMODI\xc1\r'
+Printing reply from inverter:
+(B
+
+28 42 0D
+
+Sending command:
+b'QPIWS\xb4\xda\r'
+Printing reply from inverter:
+(000000000000000000000000000000000000<
+
+28 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 3C 0D
+
+Sending command:
+b'QDIq\x1b\r'
+Printing reply from inverter:
+(230.0 50.0 0030 10.5 13.5 14.1 11.5 60 0 0 2 0 0 0 0 0 1 1 1 0 1 0 13.5 0 16
+
+28 32 33 30 2E 30 20 35 30 2E 30 20 30 30 33 30 20 31 30 2E 35 20 31 33 2E 35 20 31 34 2E 31 20 31 31 2E 35 20 36 30 20 30 20 30 20 32 20 30 20 30 20 30 20 30 20 30 20 31 20 31 20 31 20 30 20 31 20 30 20 31 33 2E 35 20 30 20 31 36 0D
+
+Sending command:
+b'QMCHGCR\xd8U\r'
+Printing reply from inverter:
+(010 020 030 040 050 060&
+
+28 30 31 30 20 30 32 30 20 30 33 30 20 30 34 30 20 30 35 30 20 30 36 30 26 0D
+
+Sending command:
+b'QMUCHGCR&4\r'
+Printing reply from inverter:
+(002 010 020 030 040ej
+
+28 30 30 32 20 30 31 30 20 30 32 30 20 30 33 30 20 30 34 30 65 6A 0D
+
+Sending command:
+b'QMSCHGCR\xab\xd5\r'
+Printing reply from inverter:
+(NAKss
+
+28 4E 41 4B 73 73 0D
+
+Sending command:
+b'QBOOT\n\x88\r'
+Printing reply from inverter:
+(NAK
+s
+
+28 4E 41 4B 0D 73 0D
+
+Sending command:
+b'QOPM\xa5\xc5\r'
+Printing reply from inverter:
+(00
+
+28 30 30 1C 0D
+
+Sending command:
+b'QCST\x06\xef\r'
+Printing reply from inverter:
+(NAKss
+
+28 4E 41 4B 73 73 0D
+
+Sending command:
+b'QCVT\xf9\x1a\r'
+Printing reply from inverter:
+(NAKss
+
+28 4E 41 4B 73 73 0D
+
+Sending command:
+b'POPM00\x1d\x04\r'
+Printing reply from inverter:
+(NAKss
+
+28 4E 41 4B 73 73 0D
+
+Sending command:
+b'POPM01\r%\r'
+Printing reply from inverter:
+(NAK
+s
+
+28 4E 41 4B 0D 73 0D
+
+Sending command:
+b'POPM02=F\r'
+Printing reply from inverter:
+(NAKss
+
+28 4E 41 4B 73 73 0D
+
+Sending command:
+b'POPM00\x1d\x04\r'
+Printing reply from inverter:
+(NAKss
+
+28 4E 41 4B 73 73 0D
+
+Sending command:
+b'QPIRI\xf8T\r'
+Printing reply from inverter:
+(220.0 05.4 220.0 50.0 05.4 1200 1200 12.0 12.0 10.7 14.6 13.5 1 10 080 0 2 3 1 01 0 0 13.8 0 1*
+
+28 32 32 30 2E 30 20 30 35 2E 34 20 32 32 30 2E 30 20 35 30 2E 30 20 30 35 2E 34 20 31 32 30 30 20 31 32 30 30 20 31 32 2E 30 20 31 32 2E 30 20 31 30 2E 37 20 31 34 2E 36 20 31 33 2E 35 20 31 20 31 30 20 30 38 30 20 30 20 32 20 33 20 31 20 30 31 20 30 20 30 20 31 33 2E 38 20 30 20 31 2A 0D
+
+Sending command:
+b'POPM01\r%\r'
+Printing reply from inverter:
+(NAK
+s
+
+28 4E 41 4B 0D 73 0D
+
+Sending command:
+b'POPM1\xacl\r'
+Printing reply from inverter:
+(NAKss
+
+28 4E 41 4B 73 73 0D
+
+Sending command:
+b'POPM1\xacl\r'
+Printing reply from inverter:
+(NAKss
+
+28 4E 41 4B 73 73 0D
+
+Sending command:
+b'POPM01\r%\r'
+Printing reply from inverter:
+(NAK
+s
+
+28 4E 41 4B 0D 73 0D
+
+Sending command:
+b'POPM01\r%\r'
+Printing reply from inverter:
+(NAK
+s
+
+28 4E 41 4B 0D 73 0D
+
+Sending command:
+b'POPM01\r%\r'
+Printing reply from inverter:
+(NAK
+s
+
+28 4E 41 4B 0D 73 0D
+
+Sending command:
+b'POPM1\xacl\r'
+Printing reply from inverter:
+(NAKss
+
+28 4E 41 4B 73 73 0D
+
+Sending command:
+b'F50c>\r'
+Printing reply from inverter:
+(ACK9 
+
+28 41 43 4B 39 20 0D
+
+Sending command:
+b'F606m\r'
+Printing reply from inverter:
+(ACK9 
+
+28 41 43 4B 39 20 0D
+
+Sending command:
+b'F40P\x0f\r'
+Printing reply from inverter:
+(NAKss
+
+28 4E 41 4B 73 73 0D
+
+Sending command:
+b'F70\x05\\\r'
+Printing reply from inverter:
+(NAKss
+
+28 4E 41 4B 73 73 0D
+
+Sending command:
+b'F50c>\r'
+Printing reply from inverter:
+(ACK9 
+
+28 41 43 4B 39 20 0D
+
+Sending command:
+b'PSDV10.5\x91\x90\r'
+Printing reply from inverter:
+(NAKss
+
+28 4E 41 4B 73 73 0D
+
+Sending command:
+b'QCVT\xf9\x1a\r'
+Printing reply from inverter:
+(NAKss
+
+28 4E 41 4B 73 73 0D
+
+Sending command:
+b'QDIq\x1b\r'
+Printing reply from inverter:
+(230.0 50.0 0030 10.5 13.5 14.1 11.5 60 0 0 2 0 0 0 0 0 1 1 1 0 1 0 13.5 0 16
+
+28 32 33 30 2E 30 20 35 30 2E 30 20 30 30 33 30 20 31 30 2E 35 20 31 33 2E 35 20 31 34 2E 31 20 31 31 2E 35 20 36 30 20 30 20 30 20 32 20 30 20 30 20 30 20 30 20 30 20 31 20 31 20 31 20 30 20 31 20 30 20 31 33 2E 35 20 30 20 31 36 0D
+
+Sending command:
+b'QDIq\x1b\r'
+Printing reply from inverter:
+(NAKss
+
+28 4E 41 4B 73 73 0D
+
+Sending command:
+b'QPI\xbe\xac\r'
+Printing reply from inverter:
+(PI30
+
+28 50 49 33 30 0B 0D
+
+Sending command:
+b'QID\xd6\xea\r'
+Printing reply from inverter:
+(96142403100434!
+
+28 39 36 31 34 32 34 30 33 31 30 30 34 33 34 21 0D
+
+Sending command:
+b'QID\xd6\xea\r'
+Printing reply from inverter:
+(NAKss
+
+28 4E 41 4B 73 73 0D
+
+Sending command:
+b'QPIGS\xb7\xa9\r'
+Printing reply from inverter:
+(225.2 50.1 225.2 50.1 0336 0275 028 349 11.90 005 095 0042 00.7 076.8 00.00 00000 00010110 00 00 00054 010N
+
+28 32 32 35 2E 32 20 35 30 2E 31 20 32 32 35 2E 32 20 35 30 2E 31 20 30 33 33 36 20 30 32 37 35 20 30 32 38 20 33 34 39 20 31 31 2E 39 30 20 30 30 35 20 30 39 35 20 30 30 34 32 20 30 30 2E 37 20 30 37 36 2E 38 20 30 30 2E 30 30 20 30 30 30 30 30 20 30 30 30 31 30 31 31 30 20 30 30 20 30 30 20 30 30 30 35 34 20 30 31 30 4E 0D
+
+Sending command:
+b'QPIGS\xb7\xa9\r'
+Printing reply from inverter:
+(235.9 49.8 235.9 49.8 0000 0000 000 346 11.80 008 095 0042 01.1 083.8 00.00 00000 00010110 00 00 00096 010s
+
+28 32 33 35 2E 39 20 34 39 2E 38 20 32 33 35 2E 39 20 34 39 2E 38 20 30 30 30 30 20 30 30 30 30 20 30 30 30 20 33 34 36 20 31 31 2E 38 30 20 30 30 38 20 30 39 35 20 30 30 34 32 20 30 31 2E 31 20 30 38 33 2E 38 20 30 30 2E 30 30 20 30 30 30 30 30 20 30 30 30 31 30 31 31 30 20 30 30 20 30 30 20 30 30 30 39 36 20 30 31 30 73 0D
+
