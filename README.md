@@ -1,6 +1,5 @@
-# ChineseInvertersSerialCommands
-This project started at interfacing the Inverex Veryon II 1200W-12V solar hybrid inverter. This inverter is a label version of many Chinese knock offs such as Axper, Solarmax, mpp solar etc. 
-These inverters come with a serial port, built into RJ45, and can be connected to PC, wither using serial port or using USB to Serial converter.
+
+This project started at interfacing the Inverex Veryon II 1200W-12V solar hybrid inverter. This inverter is a label version of many Chinese knock offs such as Axper, Solarmax, mpp solar etc. These inverters come with a serial port, built into RJ45, and can be connected to PC, wither using serial port or using USB to Serial converter.
 
 # modbus.py
 The "modbus3.py" file queries a custom command from the inverter and displays its result in text format.
