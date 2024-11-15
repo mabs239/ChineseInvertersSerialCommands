@@ -1,3 +1,7 @@
+#########################################################
+# Allah to be praised and countless blessings on        #
+# His Last Prophet Hazrat Muhammad (peace be upon him)  #
+#########################################################
 import serial
 import time
 import binascii
